@@ -1,0 +1,11 @@
+para colocar uma imagem de fundo é só utilizar:
+ background-image: url("../assets/Background.png");
+
+Para que a imagem de fundo não se repita na tela: 
+ background-repeat: no-repeat;
+
+background-color: transparent; - tira a cor de fundo
+
+display: inline-block; - Ocupa só o espaço do necessário do item e não a linha toda
+
+list-style-type: none; - remove os pontinhos no inicio de cada item da lista
